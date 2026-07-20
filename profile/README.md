@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.npmjs.com/package/react-statemesh"><img src="https://img.shields.io/npm/v/react-statemesh/latest?color=blue&label=npm&logo=npm" alt="npm version"></a>
-  <a href="https://www.npmjs.com/package/react-statemesh"><img src="https://img.shields.io/npm/dm/react-statemesh?color=blue&logo=npm" alt="downloads"></a>
-  <img src="https://img.shields.io/bundlephobia/minzip/react-statemesh?color=blue&label=bundle%20size&logo=bundlephobia" alt="bundle size">
+  <a href="https://www.npmjs.com/package/statemesh-core"><img src="https://img.shields.io/npm/v/statemesh-core/latest?color=blue&label=npm&logo=npm" alt="npm version"></a>
+  <a href="https://www.npmjs.com/package/statemesh-core"><img src="https://img.shields.io/npm/dm/statemesh-core?color=blue&logo=npm" alt="downloads"></a>
+  <img src="https://img.shields.io/bundlephobia/minzip/statemesh-core?color=blue&label=bundle%20size&logo=bundlephobia" alt="bundle size">
   <img src="https://img.shields.io/badge/built_with-TypeScript-3178c6?logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/tests-603_passing-brightgreen?logo=vitest&logoColor=white" alt="tests">
   <img src="https://img.shields.io/badge/dependencies-0-brightgreen" alt="zero dependencies">
